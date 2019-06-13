@@ -2,7 +2,7 @@
 Training a spam classifier on the Apache SpamAssassin datasets.
 
 ## Overview
-I used the [Apache SpamAssassin public data](https://spamassassin.apache.org/old/publiccorpus/) to train a few classification models and picked the one with the best precision and recall.
+I used the [Apache SpamAssassin public data](https://spamassassin.apache.org/old/publiccorpus/) to train a few classification models and picked the one with the best precision and recall. If you want to run this project, you only need the dependencies (see below); no extra files needed, the Jupyter notebook will download all the required files.
 
 ## Stages
 - Download and understand the data format
