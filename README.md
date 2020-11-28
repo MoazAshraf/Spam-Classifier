@@ -30,6 +30,7 @@ The best classifier is the MLP classifier with about:
 - 98.7% accuracy
 - 98.2% precision
 - 98.9% recall
+- 98.6% f1-score
 
 ## Dependencies
 - NumPy v1.16.2
